@@ -1,7 +1,7 @@
 export default function Home() {
     return (
-        <div className={"main-screen"}>
-            Yoohoo
+        <div className={"container-md"}>
+            Home
         </div>
     )
 }

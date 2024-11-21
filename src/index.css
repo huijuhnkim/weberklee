@@ -17,3 +17,8 @@ code {
     padding-left: 300px
   }
 }
+
+.menu-item {
+  font: 20px "Avenir Next", sans-serif;
+  font-weight: bold;
+}
